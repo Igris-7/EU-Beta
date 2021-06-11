@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - Car
+  - ManLvl01
+  - Life
+  - Carril
+  - SoundTrack
+  - PcProfe
+  - ManLvl02
+  - MoveSpot
+  - Delimitador
+  - Fornitures
+  - Waypoints_1
+  - Profesor
+  - ProfesorIA
+  - Examen
+  - Superficie
+  - Plataforma
+  - ManLvl03
+  - MapLimits03
+  - Piso
+  - SuperficieMovil
+  - GoldBook
+  - BadBook
+  - Text
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Superficie
+  - Background
+  - PrimerPlano
+  - Limites
+  - Plataforma
+  - BadBook
+  - GoldBook
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3591546373
+    locked: 0
+  - name: Background
+    uniqueID: 2670391913
+    locked: 0
+  - name: Piso
+    uniqueID: 1725514539
+    locked: 0
+  - name: PrimerPlano
+    uniqueID: 3612404705
+    locked: 0
